@@ -4,4 +4,4 @@ THÔNG TIN VỀ DỰ ÁN
 3.Có tích hợp database để hiện dữ liệu
 4.Có sử dụng một phần js để hiển thị số lượng
 5.Sử dụng giao diện thuần HTML và booTstrap 5
-6.Có giỏ hàng, nhập thông tin mua hàng và chi tiết đơn hàng nhưng không có chức năng thanh toán
+6.Có giỏ hàng, nhập thông tin mua hàng và chi tiết đơn hàng nhưng không có chức năng thanh toán.
